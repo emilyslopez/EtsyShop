@@ -1,4 +1,4 @@
-# Side_Projects
+# Side Projects
 
 What, Why and How
 
