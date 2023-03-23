@@ -1,8 +1,8 @@
 # Etsy Shop 
 
-## Market research on products I will sell through Etsy
+## Market research on products sold through Etsy
 
-I'm interested in learning how to price and market my products by analyzing current prices for similar types of art pieces. I am also using this process to develop my coding and data analysis skills. 
+I'm interested in learning how to price and market products I will sell through Etsy by analyzing current prices for similar types of art pieces. I am also using this process to develop my coding and data analysis skills. 
 
 ### Directory Structure
 
@@ -10,11 +10,11 @@ This repo features subfolders for the different types of products I will be sell
 
 | Folder | Description |
 |-----|-----|
-| `DigitalPrints`  | prints made through digital art applications |
-| `TradPrints`  | prints of artwork made with traditional art media |
-| `Stickers`  | sticker versions of the digital/trad(itional) art prints |
-| `Clothing`  | shirts and socks featuring original art |
 | `Accessories`  | pins, tote bags and pocket mirrors featuring original art |
+| `Clothing`  | shirts and socks featuring original art |
+| `DigitalPrints`  | prints made through digital art applications |
+| `Stickers`  | sticker versions of the digital/trad(itional) art prints |
+| `TradPrints`  | prints of artwork made with traditional art media |
 
 ### Sources
 
