@@ -19,4 +19,5 @@ This repo features subfolders for the different types of products I will be sell
 ### Sources
 
 1. [Creative Hive: How to Price Art Prints](https://www.youtube.com/watch?v=d0KJnkw9U2E)
+
   Used advice from content creator Creative Hive on how to price my art prints. Used their tips when conducting market research on Etsy. For more details on specific techniques, refer to the Jupyter Notebooks in the subfolders titled `Market_Research`.
